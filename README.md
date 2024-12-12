@@ -10,7 +10,7 @@ Desarrollar un sistema de clasificación de acordes de guitarra utilizando méto
 ## Dataset
 
 - **Descripción**: El dataset utilizado contiene datos sobre acordes de guitarra con sus correspondientes características.
-- **Link de descarga**: [Descargar dataset]((https://drive.google.com/drive/folders/1Kx7T2ZZojh81I2SAVutGNSC_2OuqVZqP?usp=sharing))
+- **Link de descarga**: [Descargar dataset](https://drive.google.com/drive/folders/1Kx7T2ZZojh81I2SAVutGNSC_2OuqVZqP?usp=sharing)
 ## Modelos
 
 Los modelos utilizados para el desarrollo y la clasificación fueron:
