@@ -1,5 +1,5 @@
 # Guitar Chord
-![Background](/Guitar-Chord/images/background.jpeg)
+![Background](images/background.jpeg)
 ## Autores
 
 * Alejandro Santamaria - 2215731
@@ -25,7 +25,7 @@ Los modelos utilizados para el desarrollo y la clasificación fueron:
 
 ## Enlaces relevantes
 
-- **Código fuente**: [Enlace al código](/Guitar-Chord/notebook/GuitarChord_AI_a.ipynb)
+- **Código fuente**: [Enlace al código](notebook/GuitarChord_AI_a.ipynb)
 - **Video explicativo**: [Enlace al video](https://youtu.be/RhrfRXraMW4)
 - **Repositorio**: [Enlace al repositorio completo](https://github.com/Maicio3004/Guitar-Chord/tree/main)
 
